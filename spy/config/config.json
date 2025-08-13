@@ -1,0 +1,12 @@
+{
+    "twitch":{
+        "TWITCH_NAME":"R0BSOM",
+        "TWITCH_PREFIX":"?",
+        "TWITCH_TOKEN":"e3uh3gr6tw5q9vwkjc6jqll0batdzo"
+    },
+    "discord":{
+        "DISCORD_NAME":"R0BSOM",
+        "DISCORD_PREFIX":"?",
+        "DISCORD_TOKEN":"NzgyNjc0ODA4OTE5NTU2MTM3.G3EpNT.6aUz0xa1TOGgEpzBVeJPdCcryIum040rJQZP3M"
+    }
+}
